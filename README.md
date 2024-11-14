@@ -1,9 +1,10 @@
 <h1 align="center">Hey 👋, I'm Pitchayakit</h1>
 <h3 align="center">Software Engineering</h3>
 
-<br/>
+I’m passionate about creating impactful solutions that solve real-world problems. Programming, to me, is a journey of growth and creativity, where each project brings new challenges and opportunities to innovate. I thrive on continuous learning and love exploring new technologies to push the boundaries of what’s possible.
 
-  - 🌱 I’m currently learning NodeJs | NextJs
+🌱 Currently diving deeper into Node.js, Next.js, and Retrieval-Augmented Generation to expand my skills in modern, efficient software solutions.  
+🧑‍🎓 Feel free to ask me about my experiences living and studying in Taiwan and Singapore—I’m always happy to share insights on both technology and culture!  
     
 <h3 align="left">Languages and Tools:</h3>
 
